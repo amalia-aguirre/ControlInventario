@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GATEWAY02\\source\\repos\\ControlInventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE6628-6970-474E-8AC7-E9A7ED9F19D8}|ControlInventario\\ControlInventario.csproj|c:\\users\\gateway02\\source\\repos\\controlinventario\\controlinventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1CE6628-6970-474E-8AC7-E9A7ED9F19D8}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE6628-6970-474E-8AC7-E9A7ED9F19D8}|ControlInventario\\ControlInventario.csproj|c:\\users\\gateway02\\source\\repos\\controlinventario\\controlinventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE6628-6970-474E-8AC7-E9A7ED9F19D8}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE6628-6970-474E-8AC7-E9A7ED9F19D8}|ControlInventario\\ControlInventario.csproj|c:\\users\\gateway02\\source\\repos\\controlinventario\\controlinventario\\repositories\\iinventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE6628-6970-474E-8AC7-E9A7ED9F19D8}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\repositories\\iinventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE6628-6970-474E-8AC7-E9A7ED9F19D8}|ControlInventario\\ControlInventario.csproj|c:\\users\\gateway02\\source\\repos\\controlinventario\\controlinventario\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE6628-6970-474E-8AC7-E9A7ED9F19D8}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\data\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE6628-6970-474E-8AC7-E9A7ED9F19D8}|ControlInventario\\ControlInventario.csproj|c:\\users\\gateway02\\source\\repos\\controlinventario\\controlinventario\\repositories\\inventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE6628-6970-474E-8AC7-E9A7ED9F19D8}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\repositories\\inventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1CE6628-6970-474E-8AC7-E9A7ED9F19D8}|ControlInventario\\ControlInventario.csproj|c:\\users\\gateway02\\source\\repos\\controlinventario\\controlinventario\\modelo\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CE6628-6970-474E-8AC7-E9A7ED9F19D8}|ControlInventario\\ControlInventario.csproj|solutionrelative:controlinventario\\modelo\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\GATEWAY02\\source\\repos\\ControlInventario\\ControlInventario\\Form1.cs",
+              "RelativeDocumentMoniker": "ControlInventario\\Form1.cs",
+              "ToolTip": "C:\\Users\\GATEWAY02\\source\\repos\\ControlInventario\\ControlInventario\\Form1.cs",
+              "RelativeToolTip": "ControlInventario\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T19:07:20.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GATEWAY02\\source\\repos\\ControlInventario\\ControlInventario\\Repositories\\InventarioRepository.cs",
+              "RelativeDocumentMoniker": "ControlInventario\\Repositories\\InventarioRepository.cs",
+              "ToolTip": "C:\\Users\\GATEWAY02\\source\\repos\\ControlInventario\\ControlInventario\\Repositories\\InventarioRepository.cs",
+              "RelativeToolTip": "ControlInventario\\Repositories\\InventarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:46:24.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IInventarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\GATEWAY02\\source\\repos\\ControlInventario\\ControlInventario\\Repositories\\IInventarioRepository.cs",
+              "RelativeDocumentMoniker": "ControlInventario\\Repositories\\IInventarioRepository.cs",
+              "ToolTip": "C:\\Users\\GATEWAY02\\source\\repos\\ControlInventario\\ControlInventario\\Repositories\\IInventarioRepository.cs",
+              "RelativeToolTip": "ControlInventario\\Repositories\\IInventarioRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:42:10.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\GATEWAY02\\source\\repos\\ControlInventario\\ControlInventario\\Form1.cs",
+              "RelativeDocumentMoniker": "ControlInventario\\Form1.cs",
+              "ToolTip": "C:\\Users\\GATEWAY02\\source\\repos\\ControlInventario\\ControlInventario\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ControlInventario\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:26:43.452Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\GATEWAY02\\source\\repos\\ControlInventario\\ControlInventario\\Modelo\\Inventario.cs",
+              "RelativeDocumentMoniker": "ControlInventario\\Modelo\\Inventario.cs",
+              "ToolTip": "C:\\Users\\GATEWAY02\\source\\repos\\ControlInventario\\ControlInventario\\Modelo\\Inventario.cs",
+              "RelativeToolTip": "ControlInventario\\Modelo\\Inventario.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:38:09.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\GATEWAY02\\source\\repos\\ControlInventario\\ControlInventario\\Data\\Conexion.cs",
+              "RelativeDocumentMoniker": "ControlInventario\\Data\\Conexion.cs",
+              "ToolTip": "C:\\Users\\GATEWAY02\\source\\repos\\ControlInventario\\ControlInventario\\Data\\Conexion.cs",
+              "RelativeToolTip": "ControlInventario\\Data\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T17:50:16.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
